@@ -1,5 +1,7 @@
 # Examples of generated gophers
 
+Generate your own gophers using AI: https://chat.openai.com/g/g-xf0k7XqeC-golang-gopher-designer
+
 <img src="./designer.png" height="300"/>
 <img src="./basic.png" height="300"/>
 <img src="./example1.png" height="300"/>
